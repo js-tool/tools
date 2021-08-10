@@ -4,13 +4,13 @@
 根目录下的文件夹都是工具文件夹，每个工具文件夹里都有code和exe两个文件夹。code里面是源代码，exe里面是打包后的exe文件。
 以下为目录示例：
 ```
-tool1/
+工具1/
     code/
         1.py
     exe/
         1.exe
 
-tool2/
+工具2/
     code/
         1.py
     exe/
